@@ -6,8 +6,8 @@ Tempat Berbagi dan Belajar Teknologi
 
 <br>
 
-**Support me**
+**Support**
 
-You can always support me to pay some of projects those require domain subscription or just to buying some snacks or tea.
+Kalian bisa mendukung saya untuk membayar beberapa proyek yang memerlukan langganan domain atau hanya untuk membeli beberapa camilan atau kopi.
 
-- [Trakteer](https://trakteer.id/antheiz/tip?utm_source=github-mazipan) ☕️
+- [Trakteer](https://trakteer.id/antheiz/tip) ☕️
